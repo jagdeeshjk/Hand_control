@@ -29,7 +29,7 @@ Ensure the following tools and libraries are installed:
 ### 1. Clone the Repository  
 ```bash  
 git clone https://github.com/jagdeeshjk/Hand_control.git 
-cd gesture-voice-control  
+cd Hand_control  
 ```  
 
 ### 2. Create a Virtual Environment  
