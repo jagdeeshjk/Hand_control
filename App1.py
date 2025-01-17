@@ -9,8 +9,8 @@ import threading
 import tkinter as tk
 
 # Azure Speech-to-Text Configuration
-speech_key = "nFfY6aXVR47vGIT3Tvf4fjLWqRfTTI7o375P2ZeytkkqhBtKsLeNJQQJ99BAACGhslBXJ3w3AAAYACOGGbB7"
-region = "centralindia"
+speech_key = "YOUR-SPEECH-API-KEY"
+region = "YOUR-SPEECH-REGION"
 
 # Initialize MediaPipe for gesture recognition
 mp_hands = mp.solutions.hands
