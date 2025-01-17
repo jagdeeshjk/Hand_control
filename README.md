@@ -42,6 +42,8 @@ source myenv/Scripts/activate
 python -m venv myenv  
 source myenv/bin/activate  
 ```  
+If you wish to deactivate
+type "deactivate" (without quotes) 
 
 ### 3. Install Dependencies  
 ```bash  
