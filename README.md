@@ -42,13 +42,14 @@ source myenv/Scripts/activate
 python -m venv myenv  
 source myenv/bin/activate  
 ```  
-If you wish to deactivate
-type "deactivate" (without quotes) 
+
 
 ### 3. Install Dependencies  
 ```bash  
 pip install -r requirements.txt  
 ```  
+If you wish to deactivate
+type "deactivate" (without quotes) 
 
 ### 4. Configure Azure Cognitive Services  
 1. Create an Azure Cognitive Services account.  
